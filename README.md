@@ -48,4 +48,4 @@ python manage.py runserver
 ```
 
 El servidor se iniciará en `http://127.0.0.1:8000/`.
-Puedes acceder a la con `http://127.0.0.1:8000/api/corona/`.
+Puedes acceder a la API con `http://127.0.0.1:8000/api/corona/`.
